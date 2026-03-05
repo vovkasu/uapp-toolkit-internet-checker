@@ -1,5 +1,13 @@
 {
   "dependencies": {
+    "com.uapp-toolkit.internet-checker": {
+      "version": "file:com.uapp-toolkit.internet-checker",
+      "depth": 0,
+      "source": "embedded",
+      "dependencies": {
+        "com.unity.ugui": "2.0.0"
+      }
+    },
     "com.unity.2d.animation": {
       "version": "10.2.1",
       "depth": 1,
