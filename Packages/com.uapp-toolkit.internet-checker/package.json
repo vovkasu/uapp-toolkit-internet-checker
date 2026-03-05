@@ -2,15 +2,18 @@
   "name": "com.uapp-toolkit.internet-checker",
   "version": "1.0.0",
   "displayName": "Internet Checker",
-  "description": "",
+  "description": "A lightweight Unity service for checking internet connectivity and executing actions that require an active internet connection.",
   "unity": "2021.3",
   "license": "MIT",
   "dependencies": {
     "com.unity.ugui": "2.0.0"
   },
   "keywords": [
-    "scripts",
-    "internet"
+    "internet",
+    "connectivity",
+    "networking",
+    "connection",
+    "checker"
   ],
   "author": {
     "name": "Surov Volodymyr",

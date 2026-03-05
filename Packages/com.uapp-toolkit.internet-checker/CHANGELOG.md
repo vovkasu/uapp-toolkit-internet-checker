@@ -1,8 +1,8 @@
 Changelog
 =========
 
-[0.0.0] - 2000.01.01
+[1.0.0] - 2026.03.05
 --------------------
-* **Added** -
+* **Added** - **InternetCheckerService** for checking internet connectivity and managing action execution
 * **Changed** -
 * **Fixed** -
